@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "image": "https://i.imgur.com/BxnB7vS.png",
+      "name": "James Duck",
+      "age": "24",
+      "email": "james_i@gmail.com",
+      "region": "SOUTHWEST",
+      "country": "USA"
+    },
+    {
+      "id": "02",
+      "image": "https://i.imgur.com/dCR65Zt.png",
+      "name": "Sarah Tortoise",
+      "age": "27",
+      "email": "st_01@gmail.com",
+      "region": "SOUTHWEST",
+      "country": "USA"
+    },
+    {
+      "id": "03",
+      "image": "https://i.imgur.com/TiI94KJ.png",
+      "name": "Tiffany Moose",
+      "age": "29",
+      "email": "tiff_moose@yahoo.com",
+      "region": "NORTHEAST",
+      "country": "USA"
+    },
+    {
+      "id": "04",
+      "image": "https://i.imgur.com/a05UdGD.png",
+      "name": "Liam Bees",
+      "age": "22",
+      "email": "lee_bee@gmail.com",
+      "region": "CENTRAL",
+      "country": "USA"
+    },
+    {
+      "id": "05",
+      "image": "https://i.imgur.com/osyPRVC.png",
+      "name": "Bernie Fox",
+      "age": "58",
+      "email": "fox_man@aol.com",
+      "region": "WEST",
+      "country": "USA"
+    },
+    {
+      "id": "06",
+      "image": "https://i.imgur.com/TyQqJxE.png",
+      "name": "Tommy Cats",
+      "age": "34",
+      "email": "love_cats@gmail.com",
+      "region": "WEST",
+      "country": "USA"
+    },
+    {
+      "id": "07",
+      "image": "https://i.imgur.com/POyTw0k.png",
+      "name": "Olivia Crane",
+      "age": "22",
+      "email": "not_a_crane@gmail.com",
+      "region": "MIDWEST",
+      "country": "USA"
+    },
+    {
+      "id": "08",
+      "image": "https://i.imgur.com/sna0WPW.png",
+      "name": "Derek Birds",
+      "age": "54",
+      "email": "d_birds@gmail.com",
+      "region": "MIDWEST",
+      "country": "USA"
+    },
+    {
+      "id": "09",
+      "image": "https://i.imgur.com/Rjaexxc.png",
+      "name": "Darren Eagle",
+      "age": "31",
+      "email": "d_eagles_away@gmail.com",
+      "region": "NORTHWEST",
+      "country": "USA"
+    },
+    {
+      "id": "010",
+      "image": "https://i.imgur.com/7lmuhNE.png",
+      "name": "Susan Whale",
+      "age": "39",
+      "email": "d_birds@gmail.com",
+      "region": "SOUTHEAST",
+      "country": "USA"
+    },
+    {
+      "id": "011",
+      "image": "https://i.imgur.com/h8DFzNg.png",
+      "name": "Mike Bear",
+      "age": "36",
+      "email": "honey_lover@gmail.com",
+      "region": "SOUTHEAST",
+      "country": "USA"
+    },
+    {
+      "id": "012",
+      "image": "https://i.imgur.com/ADOAF9i.png",
+      "name": "Jaime Fish",
+      "age": "28",
+      "email": "j_fishs@gmail.com",
+      "region": "SOUTHWEST",
+      "country": "USA"
+    },
+    {
+      "id": "013",
+      "image": "https://i.imgur.com/ZSBMFf3.png",
+      "name": "Marco Lamb",
+      "age": "35",
+      "email": "marc_da_lamb91@gmail.com",
+      "region": "WEST",
+      "country": "USA"
+    },
+    {
+      "id": "014",
+      "image": "https://i.imgur.com/KX0tuGc.png",
+      "name": "David Porcupine",
+      "age": "41",
+      "email": "d_porc@yahoo.com",
+      "region": "SOUTHEAST",
+      "country": "USA"
+    },
+    {
+      "id": "015",
+      "image": "https://i.imgur.com/GmO8pWu.png",
+      "name": "Elizabeth Camel",
+      "age": "32",
+      "email": "never_thirsty@gmail.com",
+      "region": "NORTHEAST",
+      "country": "USA"
+    }
+  ]
+}
